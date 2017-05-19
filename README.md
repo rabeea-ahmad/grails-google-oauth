@@ -19,11 +19,13 @@ https://github.com/google/google-http-java-client
 
 These can all be included as dependencies in you build.gradle file as such: 
 
-``` dependencies {
+```
+ dependencies {
 	    compile 'com.google.api-client:google-api-client:1.20.0'
 	    compile group: 'com.google.oauth-client', name: 'google-oauth-client', version: '1.22.0'
 	    compile group: 'com.google.http-client', name: 'google-http-client', version: '1.22.0'
-	} ```
+	} 
+```
 
 ## License
 
